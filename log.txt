@@ -1,0 +1,140 @@
+UserID: 7416009186 | Time: 2024-09-26 11:31:45.750458 | Command: 20.204.16.246 | Target: 28386 | Port: 300
+Username: @cs21_loki
+Target: 20.204.16.246
+Port: 28386
+Time: 300
+
+UserID: 7416009186 | Time: 2024-09-26 12:30:54.431655 | Command: 20.235.49.2 | Target: 16765 | Port: 180
+Username: @cs21_loki
+Target: 20.235.49.2
+Port: 16765
+Time: 180
+
+UserID: 7416009186 | Time: 2024-09-26 12:39:52.927068 | Command: 20.235.49.2 | Target: 16765 | Port: 90
+Username: @cs21_loki
+Target: 20.235.49.2
+Port: 16765
+Time: 90
+
+UserID: 7416009186 | Time: 2024-09-26 12:55:57.199421 | Command: 20.219.20.175 | Target: 16426 | Port: 180
+Username: @cs21_loki
+Target: 20.219.20.175
+Port: 16426
+Time: 180
+
+UserID: 7416009186 | Time: 2024-09-26 12:57:11.060099 | Command: 20.219.20.175 | Target: 16426 | Port: 120
+Username: @cs21_loki
+Target: 20.219.20.175
+Port: 16426
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 12:58:25.156811 | Command: 20.219.20.175 | Target: 16426 | Port: 120
+Username: @cs21_loki
+Target: 20.219.20.175
+Port: 16426
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 13:12:48.502004 | Command: 20.219.167.192 | Target: 22002 | Port: 200
+Username: @cs21_loki
+Target: 20.219.167.192
+Port: 22002
+Time: 200
+
+UserID: 7416009186 | Time: 2024-09-26 13:16:41.103480 | Command: 20.219.167.192 | Target: 22002 | Port: 120
+Username: @cs21_loki
+Target: 20.219.167.192
+Port: 22002
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 13:17:07.833519 | Command: 20.219.167.192 | Target: 22002 | Port: 120
+UserID: 7416009186 | Time: 2024-09-26 13:18:19.877705 | Command: 20.219.167.192 | Target: 22002 | Port: 100
+Username: @cs21_loki
+Target: 20.219.167.192
+Port: 22002
+Time: 100
+
+UserID: 7416009186 | Time: 2024-09-26 13:19:25.249211 | Command: 20.219.167.192 | Target: 22002 | Port: 100
+Username: @cs21_loki
+Target: 20.219.167.192
+Port: 22002
+Time: 100
+
+UserID: 7416009186 | Time: 2024-09-26 13:35:09.043651 | Command: 20.204.178.198 | Target: 24079 | Port: 899
+Username: @cs21_loki
+Target: 20.204.178.198
+Port: 24079
+Time: 899
+
+UserID: 7416009186 | Time: 2024-09-26 14:30:06.906767 | Command: 20.204.17.190 | Target: 10246 | Port: 180
+Username: @cs21_loki
+Target: 20.204.17.190
+Port: 10246
+Time: 180
+
+UserID: 7416009186 | Time: 2024-09-26 14:33:29.917483 | Command: 20.204.17.190 | Target: 10246 | Port: 120
+Username: @cs21_loki
+Target: 20.204.17.190
+Port: 10246
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 14:35:59.979389 | Command: 20.204.17.190 | Target: 10246 | Port: 60
+Username: @cs21_loki
+Target: 20.204.17.190
+Port: 10246
+Time: 60
+
+UserID: 7416009186 | Time: 2024-09-26 14:37:26.461190 | Command: 20.204.17.190 | Target: 10246 | Port: 60
+Username: @cs21_loki
+Target: 20.204.17.190
+Port: 10246
+Time: 60
+
+UserID: 7416009186 | Time: 2024-09-26 14:47:48.699988 | Command: 20.198.79.17 | Target: 24921 | Port: 240
+Username: @cs21_loki
+Target: 20.198.79.17
+Port: 24921
+Time: 240
+
+UserID: 7416009186 | Time: 2024-09-26 14:52:29.973123 | Command: 20.198.79.17 | Target: 24921 | Port: 180
+Username: @cs21_loki
+Target: 20.198.79.17
+Port: 24921
+Time: 180
+
+UserID: 7416009186 | Time: 2024-09-26 14:56:46.967843 | Command: 20.198.79.17 | Target: 24921 | Port: 120
+Username: @cs21_loki
+Target: 20.198.79.17
+Port: 24921
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 15:04:13.052331 | Command: 20.204.17.15 | Target: 14604 | Port: 120
+UserID: 7416009186 | Time: 2024-09-26 15:05:03.817731 | Command: 20.204.17.15 | Target: 14604 | Port: 120
+Username: @cs21_loki
+Target: 20.204.17.15
+Port: 14604
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 15:10:55.593067 | Command: 20.204.17.15 | Target: 14604 | Port: 120
+Username: @cs21_loki
+Target: 20.204.17.15
+Port: 14604
+Time: 120
+
+UserID: 7416009186 | Time: 2024-09-26 15:13:54.685270 | Command: 20.204.17.15 | Target: 14604 | Port: 60
+Username: @cs21_loki
+Target: 20.204.17.15
+Port: 14604
+Time: 60
+
+UserID: 7416009186 | Time: 2024-09-26 15:14:57.306830 | Command: 20.204.17.15 | Target: 14604 | Port: 45
+Username: @cs21_loki
+Target: 20.204.17.15
+Port: 14604
+Time: 45
+
+UserID: 7416009186 | Time: 2024-09-26 15:16:38.573318 | Command: 20.204.17.15 | Target: 14604 | Port: 45
+Username: @cs21_loki
+Target: 20.204.17.15
+Port: 14604
+Time: 45
+
