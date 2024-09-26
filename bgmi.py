@@ -112,7 +112,7 @@ def get_current_time():
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     response = (
-        f"🌟 Welcome to the PRINCE DDOS Bot! 🌟\n\n"
+        f"🌟 Welcome to the DDOS Bot! 🌟\n\n"
         f"Current Time: {get_current_time()}\n\n"
         "Here are some commands you can use:\n"
         "👤 /approveuser <id> <duration> - Approve a user for a certain duration (day, week, month)\n"
@@ -286,7 +286,7 @@ def start_attack_reply(message, target, port, time):
     user_info = message.from_user
     username = user_info.username if user_info.username else user_info.first_name
             
-    response = f"🚀Attack Started Successfully! 🚀\n\n🗿𝐓𝐚𝐫𝐠𝐞𝐭: {target}:{port}\n🕦Attack Duration: {time}\n💣Method: LODA-LELE\n\n🔥Status: MAFIAs MOM SEX IN PROGRESS... 🔥"
+    response = f"🚀Attack Started Successfully! 🚀\n\n🗿𝐓𝐚𝐫𝐠𝐞𝐭: {target}:{port}\n🕦Attack Duration: {time}\n\n🔥Status: ATTACK IN PROGRESS... 🔥"
     bot.send_message(message.chat.id, response)
 
 # Dictionary to store the last time each user ran the /bgmi command
@@ -330,14 +330,14 @@ def handle_attack(message):
     else:
         response = ("🚫 Unauthorized Access! 🚫\n\nOops! It seems like you don't have permission to use the /attack command. "
                     "To gain access and unleash the power of attacks, you can:\n\n👉 Contact an Admin or the Owner for approval.\n"
-                    "🌟THE ONLY OWNER IS @its_luci DM TO BUY ACCESS")
+                    "🌟THE ONLY OWNER IS @cs21_loki DM TO BUY ACCESS")
 
     bot.send_message(message.chat.id, response)
 
 # message_handler(func=lambda message: True)
 def handle_unknown_command(message):
     response = (
-        f"🌟 Welcome to the PRINCE DDOS Bot! 🌟\n\n"
+        f"🌟 Welcome to the DDOS Bot! 🌟\n\n"
         f"Current Time: {get_current_time()}\n\n"
         "Here are some commands you can use:\n"
         "❌ /removeuser <id> - Remove a user\n"
